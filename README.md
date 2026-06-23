@@ -1,6 +1,6 @@
 # Contact Manager App (MERN Stack)
 
-A simple Contact Manager web application built using the MERN stack that allows users to create, read, update, and delete contacts.
+A simple Contact Manager web application built using the MERN stack that allows users to create, read, update and delete contacts.
 
 ---
 
