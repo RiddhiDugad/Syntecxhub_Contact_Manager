@@ -33,21 +33,15 @@ A simple Contact Manager web application built using the MERN stack that allows 
 
 ## 📁 Project Structure
 
+- backend/
+  - models/
+  - routes/
+  - controllers/
+  - server.js
 
-Task3/
-├── backend/
-│ ├── models/
-│ ├── routes/
-│ ├── controllers/
-│ ├── server.js
-│ ├── package.json
-│ └── package-lock.json
-│
-├── frontend/
-│ ├── src/
-│ ├── public/
-│ ├── package.json
-│ └── package-lock.json
-│
-├── .gitignore
-└── README.md
+- frontend/
+  - src/
+  - public/
+
+- .gitignore
+- README.md
